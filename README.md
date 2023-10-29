@@ -31,8 +31,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 Voici les étapes à suivre pour déployer en production :
 
 ```
-- Etape 1 : ...  
-- Etape 2 : ...
+A définir
 ```
 
 ## Technologies :
